@@ -17,4 +17,15 @@ $ npm run start
 $ npm run generate
 ```
 
+# 创建git分支
+```
+$ git checkout -b nuxt
+Switched to a new branch 'nuxt'
+
+$ git branch
+* dev
+  master
+```
+
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
